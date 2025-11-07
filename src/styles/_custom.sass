@@ -54,11 +54,29 @@ figcaption
   &-1
     background-color: #E6F3F0
   &-2
-    background-color: #FFE69B
+    background-color: #FDCD9E
   &-3
     background-color: #D5D1E2
   &-4
     background: linear-gradient(180deg,rgba(255, 255, 255, 1) 0%, rgba(254, 242, 229, 1) 20%, rgba(242, 249, 247, 1) 80%, rgba(255, 255, 255, 1) 100%)
+  &-5
+    background: linear-gradient(180deg,rgba(255, 255, 255, 1) 0%, rgba(253, 242, 229, 1) 30%, rgba(253, 242, 229, 1) 70%, rgba(255, 255, 255, 1) 100%)
+  &-6
+    color: #31532B !important
+  &-7
+    background-color: #FA840E
+  &-8
+    background-color: #FEE6CE
+  &-9
+    background-color: #D5DCD4
+  &-10
+    background-color: #CDE7E2
+  &-11
+    background-color: #F2F9F7
+  &-12
+    background-color: #F2F9F7
+  &-13
+    background-color: #F3EEE9
   &-white
     background-color: white !important
     border: 1px solid $lightest-gray
@@ -94,9 +112,37 @@ figcaption
     // background-image: url("../assets/bg/bg2.png") !important
     background-position: bottom
   &-slider
-    //background-image: url("../assets/bg/bg-slider.png") !important
+    background-image: url("../assets/curso/bg-slider.png") !important
     background-position: bottom
 
 //////////COLOR_TEXTO_BOTON_REGRESAR///////////
 .barra-avance__boton--regresar span
   color: white !important
+
+//////////////CUSTON SLYDER-A////////
+.slyder-a__bullets__item 
+  background-color: #FDD4AA
+  border: #FDD4AA
+.slyder-a__bullets__item--active
+  background-color: #FA840E
+.slyder-a__btn--atrs, .slyder-a__btn--sigt
+  background-color: #7805D3
+
+//CLASES TITULOS//
+.titulo-con-imagen
+  display: flex
+  align-items: center
+  position: relative
+.titulo-con-imagen__fondo
+  background-color: #FA840E
+  border-radius: 10px
+  padding: 10px 20px
+  display: inline-flex
+  align-items: center
+.titulo-con-imagen__imagen
+  position: absolute
+  left: -15px
+  width: 50px
+.titulo-con-imagen__texto
+  margin: 0
+  padding-left: 20px
