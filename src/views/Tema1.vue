@@ -591,19 +591,19 @@
     p.mb-5 Toda decisión de manejo debe estar respaldada por principios éticos y evidencia científica, no por la costumbre o conveniencia económica. Esto implica comprender la fisiología, etología, bioseguridad y productividad del animal. La normativa colombiana es:
 
     .row.justify-content-center.align-items-stretch.mb-5
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         .tarjeta.bg-color-11.h-100
           .bg-color-10.px-4.px-lg-5.py-3.rounded-top
             h4.mb-0.text-center Ley 1774 de 2016
           p.mb-0.p-4 Reconoce a los animales como seres sintientes.
 
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         .tarjeta.bg-color-11.h-100
           .bg-color-10.px-4.px-lg-5.py-3.rounded-top
             h4.mb-0.text-center Decreto 2113 de 2017
           p.mb-0.p-4 Establece principios de trato digno.
 
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         .tarjeta.bg-color-11.h-100
           .bg-color-10.px-4.px-lg-5.py-3.rounded-top
             h4.mb-0.text-center Resolución ICA 16409 de 2024

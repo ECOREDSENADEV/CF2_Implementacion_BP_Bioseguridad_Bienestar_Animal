@@ -181,19 +181,19 @@
     p.mb-5 El enfoque colombiano en bienestar animal avanza hacia una armonización técnica con los estándares internacionales, lo cual fortalece la competitividad del país y respalda la sostenibilidad de su sistema agropecuario.
 
     .row.justify-content-center.align-items-stretch.mb-5
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         .tarjeta.bg-color-11.h-100
           .bg-color-10.px-4.px-lg-5.py-3.rounded-top
             h4.mb-0.text-center WOAH (2024)
           p.mb-0.p-4 Define el bienestar como componente sanitario clave.
 
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         .tarjeta.bg-color-11.h-100
           .bg-color-10.px-4.px-lg-5.py-3.rounded-top
             h4.mb-0.text-center FAO (2023)
           p.mb-0.p-4 Promueve la sostenibilidad y la trazabilidad ética.
 
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         .tarjeta.bg-color-11.h-100
           .bg-color-10.px-4.px-lg-5.py-3.rounded-top
             h4.mb-0.text-center ISO 34700 (2021)

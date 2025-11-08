@@ -40,10 +40,10 @@
         .bg-color-15.tarjeta.mb-5
           .p-4
             .row.justify-content-center.align-items-center
-              .col-lg-5
+              .col-lg-5.mb-3.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema7/4.svg", data-aos="zoom-in")
-              .col-lg-7
+              .col-lg-7.mb-3.mb-lg-0
                 h2(data-aos="fade-left").text-white.mb-4 Pódcast
         
                 TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
