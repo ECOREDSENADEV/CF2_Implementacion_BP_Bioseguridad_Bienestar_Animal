@@ -471,13 +471,13 @@
     .row.mb-4.justify-content-center
       .col-lg-3.mb-3.mb-lg-0
         .bg-color-10.p-4.mb-3(data-aos="fade-left")
-          p.mb-o Reduce la incidencia de enfermedades.
+          p.mb-0 Reduce la incidencia de enfermedades.
       .col-lg-3.mb-3.mb-lg-0
         .bg-color-10.p-4.mb-3(data-aos="fade-left")
-          p.mb-o Mejora la eficiencia productiva y la calidad del huevo.
+          p.mb-0 Mejora la eficiencia productiva y la calidad del huevo.
       .col-lg-3.mb-3.mb-lg-0
         .bg-color-10.p-4.mb-3(data-aos="fade-left")
-          p.mb-o Facilita el cumplimiento normativo y la certificación ICA.
+          p.mb-0 Facilita el cumplimiento normativo y la certificación ICA.
     
     p.mb-5 En sistemas tecnificados (jaula o piso), la sanidad se apoya en automatización y registros digitales; en sistemas de traspatio, el éxito depende del conocimiento empírico, la observación diaria y la asesoría veterinaria. En todos los casos, el objetivo es común: mantener aves sanas, longevas, productivas y con altos estándares de bienestar animal.
 

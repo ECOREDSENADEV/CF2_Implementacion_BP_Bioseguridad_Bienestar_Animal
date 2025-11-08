@@ -217,13 +217,13 @@
         .row.mb-4 
           .col-lg-4.mb-3.mb-lg-0
             .bg-color-9.p-4.mb-3(data-aos="fade-left")
-              p.mb-o Mayor eficiencia productiva (más huevos por gallina por año).
+              p.mb-0 Mayor eficiencia productiva (más huevos por gallina por año).
           .col-lg-4.mb-3.mb-lg-0
             .bg-color-9.p-4.mb-3(data-aos="fade-left")
-              p.mb-o Mejor calidad del producto (huevos con cáscara firme y clara limpia).
+              p.mb-0 Mejor calidad del producto (huevos con cáscara firme y clara limpia).
           .col-lg-4.mb-3.mb-lg-0
             .bg-color-9.p-4.mb-3(data-aos="fade-left")
-              p.mb-o Menor mortalidad y uso de medicamentos veterinarios.
+              p.mb-0 Menor mortalidad y uso de medicamentos veterinarios.
     
     p.mb-5 Colombia avanza hacia una avicultura ética y sostenible, integrando ciencia, legislación y práctica productiva, en línea con los principios de la WOAH y la FAO, y consolidándose como líder en bienestar animal en América Latina.
 
