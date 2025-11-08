@@ -214,7 +214,7 @@
                   p.mb-0 Tanto el ICA como el MADR trabajan activamente en la incorporación de estas directrices dentro de los programas de Certificación Voluntaria de Bienestar Animal, posicionando a Colombia como referente regional.
             p(data-aos="fade-left") El bienestar animal en aves de postura ha pasado de ser un compromiso ético opcional a un requisito técnico, legal y comercial. Reconocer la sintiencia de las aves implica transformar los sistemas productivos hacia modelos más humanos, sostenibles y trazables. Cumplir con la normatividad nacional garantiza no solo el respeto a los animales, sino también beneficios concretos:
 
-        .row.mb-4
+        .row.mb-4 
           .col-lg-4.mb-3.mb-lg-0
             .bg-color-9.p-4.mb-3(data-aos="fade-left")
               p.mb-o Mayor eficiencia productiva (más huevos por gallina por año).
