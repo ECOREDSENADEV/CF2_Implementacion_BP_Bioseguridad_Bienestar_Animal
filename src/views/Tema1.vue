@@ -336,10 +336,13 @@
     
     p.mb-5 A continuación, se presenta un video, el cual ofrece una visión integral sobre los principales aspectos técnicos, normativos y operativos de la producción avícola.
 
-    figure
+    figure.mb-5
       .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/lBvIpVU2lrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption <b>Video</b>: Producción de aves, carne, huevo y bienestar animal
+
+    
+
 
     .bg-color-9.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center

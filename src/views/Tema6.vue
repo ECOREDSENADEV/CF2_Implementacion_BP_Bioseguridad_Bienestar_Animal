@@ -238,8 +238,8 @@
       .px-4.px-md-5
         figure.mb-5
           .video.mb-2
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Video: Leyenda del video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/hiJCUNy1GQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption <b>Video</b>: Clasificación de los residuos en la producción avícola
 
         p.mb-5 En el siguiente  video se expone los procedimientos físicos, químicos y biológicos necesarios para reducir la carga microbiana en estos subproductos, conforme a la Resolución ICA 30292 de 2017.
     
@@ -248,14 +248,15 @@
         figure.mb-5
           .video.mb-2
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Video: Leyenda del video
+          figcaption <b>Video</B>: Sanitización de la gallinaza o pollinaza
 
         p.mb-5 A continuación, se presenta un video, que resalta la importancia de documentar adecuadamente los procesos productivos en una granja avícola para garantizar la trazabilidad, el cumplimiento normativo y la mejora continua.
 
         figure.mb-5
           .video.mb-2
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Video: Leyenda del video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/5pgCEDrAm5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption <b>Video</b>: Registros y recolección de datos
+
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -343,8 +344,9 @@
 
     figure.mb-5
       .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/9FcUeEC1Ego" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption <b>Video</b>: Buenas prácticas en granjas avícolas
+
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -488,8 +490,9 @@
       .px-4.px-md-5
         figure.mb-5
           .video.mb-2
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Video: Leyenda del video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/1jsZtiYd-I8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption <b>Video</b>: Protocolos de bioseguridad y control de actividades anexas de producción
+
       
         p.mb-5 Cumplir con los protocolos establecidos por la Resolución ICA 3651 de 2014 permite obtener y mantener la Certificación de Granja Avícola Biosegura, y constituye además el requisito técnico preliminar para acceder a la Certificación de Bienestar Animal (Resolución ICA 16409 de 2024).
 
